@@ -1,6 +1,6 @@
 # Sarcasm Detection
 
-This project implements a machine learning model to detect sarcasm in headlines using the Bernoulli Naive Bayes algorithm.
+This project detects sarcasm in headlines using the Bernoulli Naive Bayes algorithm.
 
 ## Overview
 
