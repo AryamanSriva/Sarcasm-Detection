@@ -33,15 +33,6 @@ The Sarcasm Detection project uses a dataset of headlines labeled as sarcastic o
 
 3. Download the `Sarcasm.json` dataset and place it in the project directory.
 
-## Usage
-
-1. Run the Jupyter notebook `Sarcasm Detection.ipynb`.
-2. The notebook will guide you through the process of:
-   - Loading and preprocessing the data
-   - Training the model
-   - Testing the model's accuracy
-   - Using the model to predict sarcasm in new text inputs
-
 ## Model Performance
 
 The current model achieves an accuracy of approximately 84.48% on the test set.
