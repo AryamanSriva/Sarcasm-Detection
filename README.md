@@ -54,4 +54,4 @@ Contributions to improve the model or extend the project are welcome. Please fee
 
 ## Acknowledgments
 
-- The dataset used in this project is sourced from Kaggle.
+The dataset used in this project is sourced from Kaggle.
