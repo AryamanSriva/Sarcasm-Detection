@@ -51,7 +51,3 @@ print(output)
 ## Contributing
 
 Contributions to improve the model or extend the project are welcome. Please feel free to submit a pull request or open an issue.
-
-## Acknowledgments
-
-The dataset used in this project is sourced from Kaggle.
