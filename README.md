@@ -19,20 +19,6 @@ The Sarcasm Detection project uses a dataset of headlines labeled as sarcastic o
 - Model training using Bernoulli Naive Bayes
 - Prediction of sarcasm in new text inputs
 
-## Installation
-
-1. Clone this repository:
-   ```
-   git clone https://github.com/AryamanSriva/sarcasm-detection.git
-   ```
-
-2. Install the required dependencies:
-   ```
-   pip install pandas numpy scikit-learn
-   ```
-
-3. Download the `Sarcasm.json` dataset and place it in the project directory.
-
 ## Model Performance
 
 The current model achieves an accuracy of approximately 84.48% on the test set.
