@@ -47,7 +47,3 @@ data = cv.transform([user]).toarray()
 output = model.predict(data)
 print(output)
 ```
-
-## Contributing
-
-Contributions to improve the model or extend the project are welcome. Please feel free to submit a pull request or open an issue.
